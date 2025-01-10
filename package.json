@@ -1,0 +1,18 @@
+{
+	"main": "index.js",
+	"type": "commonjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node ."
+	},
+	"engines": {
+		"node": ">=18.17.0"
+	},
+	"dependencies": {
+		"@discordjs/rest": "^2.4.0",
+		"chalk-advanced": "^1.0.7",
+		"discord-api-types": "^0.37.102",
+		"discord.js": "^14.16.3",
+		"dotenv": "^16.4.5"
+	}
+}
